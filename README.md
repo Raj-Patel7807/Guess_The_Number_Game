@@ -24,14 +24,17 @@ You Guessed in 3 try..!!
 ```
 
 ## How to Compile and Run ▶️
-1. Save the code to a file, e.g., `guess_number.cpp`.
+1. Clone the Repo :
+   ```bash
+   git clone https://github.com/Raj-Patel7807/Guess_The_Number_Game.git
+   ```
 2. Compile using:
    ```bash
-   g++ -std=c++17 -o guess_number guess_number.cpp
+   g++ -std=c++17 -o main main.cpp
    ```
 3. Run the Program:
     ```bash
-    ./guess_number.exe
+    ./main.exe
     ```
 
 ## Features ✨
@@ -47,4 +50,4 @@ Made By Raj Patel..
 - [LinkedIn](https://www.linkedin.com/in/raj-patel7807)
 
 
-#### Happy Coding 🧑🏻‍💻✨
+**Happy Coding 🧑🏻‍💻✨**
